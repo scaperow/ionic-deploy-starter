@@ -1,0 +1,20 @@
+<ion-view view-title="Home">
+  <ion-content class="padding">
+    <div class="card">
+      <div class="item item-divider">Ionic Deploy</div>
+      <div class="item item-body">
+        <div>
+          Checking for updates every {{updateMinutes}} minutes.
+        </div>
+        <div>
+          Last checked: {{lastChecked | date:'short'}}
+        </div>
+        <p>
+          <button class="button button-positive button-block" ng-click="checkForUpdates()">Check for updates</button>
+          <button class="button button-assertive button-block" ng-click="stopCheckingForUpdates()">Don't check for updates</button>
+          <button class="button button-positive button-block button-pulse" ng-if="hasUpdate" ng-click="doUpdate()">Update</button>
+        </p>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

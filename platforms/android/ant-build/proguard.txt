@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:58
+-keep class cn.jpush.android.service.AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class cn.jpush.android.service.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class cn.jpush.android.service.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class cn.jpush.android.service.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class cn.jpush.android.ui.PushActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class cn.jpush.phonegap.MyReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.scaperow.car.CordovaApp { <init>(...); }
+

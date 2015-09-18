@@ -1,0 +1,26 @@
+/Users/Ben/code/apps/platforms/android/ant-build/classes.dex : \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/cn/jpush/phonegap/JPushPlugin$1.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/cn/jpush/phonegap/JPushPlugin$2.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/cn/jpush/phonegap/JPushPlugin.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/cn/jpush/phonegap/MyReceiver.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/ionic/deploy/IonicDeploy$1.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/ionic/deploy/IonicDeploy$2.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/ionic/deploy/IonicDeploy$3.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/ionic/deploy/IonicDeploy$4.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/ionic/deploy/IonicDeploy$DownloadTask.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/ionic/deploy/IonicDeploy.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/ionic/deploy/JsonHttpResponse.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/BuildConfig.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/CordovaApp.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/Manifest$permission.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/Manifest.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/R$attr.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/R$drawable.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/R$id.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/R$layout.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/R$string.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/R$xml.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/com/scaperow/car/R.class \
+/Users/Ben/code/apps/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/Ben/code/apps/platforms/android/ant-build/dexedLibs/classes-cb6c88bcf22fc964713f6771a5f77221.jar \
+/Users/Ben/code/apps/platforms/android/ant-build/dexedLibs/jpush-sdk-release1.7.5-cee9600563cc72bd670ca6bff9f4dfd5.jar \
